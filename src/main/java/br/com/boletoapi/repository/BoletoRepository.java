@@ -1,4 +1,4 @@
-package br.com.boletoapi;
+package br.com.boletoapi.repository;
 
 import br.com.boletoapi.model.Boleto;
 import org.springframework.data.jpa.repository.JpaRepository;
